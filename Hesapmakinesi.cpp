@@ -19,7 +19,7 @@ int main(){
 			case '*' : cout << "Sonucunuz : " << x*y ; break;
 			case '/' : 
 				if (y == 0){
-				cout << "Sonuc tanımsız." ;
+				cout << "Sonuc tanimsiz." ;
 				}
 				else{
 				cout << "Sonucunuz : " << x/y;
@@ -32,3 +32,4 @@ int main(){
 	
 	return 0;
 }
+
