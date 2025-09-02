@@ -26,10 +26,9 @@ int main(){
 				}
 				break;
 				default: cout << "Gecersiz islem !" ;
-	
-	
 }
 	
 	return 0;
 }
+
 
